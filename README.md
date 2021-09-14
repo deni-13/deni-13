@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning ML,Deep Learning
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: i hated coding in university.
 
 

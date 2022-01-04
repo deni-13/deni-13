@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu8" alt="blue8" /> </p>
 
 
-[![](https://img.shields.io/github/followers/bleu8?style=social)](https://www.github.com/bleu8)
+[![](https://img.shields.io/github/followers/bleu8?style=social)](https://www.github.com/deni-13)
 
 
 

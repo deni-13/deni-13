@@ -12,7 +12,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bleu8&show_icons=true">
 
-# Hello i'm Blue! 
+# Hello i'm D! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu8" alt="blue8" /> </p>
 
 

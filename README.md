@@ -6,7 +6,7 @@
 - 🔭 I’ ll working on Data Science
 - 🌱 I’m currently learning Deep Learning/CV
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i hated coding when i met in university.
+- ⚡ Fun fact: i hated coding in university.
 
 
 

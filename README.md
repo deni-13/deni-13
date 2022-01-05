@@ -10,7 +10,7 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bleu8&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=deni-13&show_icons=true">
 
 # Hello i'm D! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu8" alt="deni-13" /> </p>

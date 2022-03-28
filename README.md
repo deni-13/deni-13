@@ -4,7 +4,7 @@
 
 
 - 🔭 I’ ll working on Data Science
-- 🌱 I’m currently learning Deep Learning/CV
+- 🌱 I’m currently practising algorithm and data structures.Doing project about it.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i used to hate coding before 2 years
 

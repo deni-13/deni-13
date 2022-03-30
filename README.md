@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Merve+Karabulut;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Deniz;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 <div align="center">
@@ -16,11 +16,11 @@
  <!--Statistics-->
 <div align="center">
   <div align="center">
-<a href="https://github.com/mervekrblt/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
+<a href="https://github.com/deni-13/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=deni-13&color=f75c7e">
 </a>
-<a href="https://github.com/mervekrblt?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/mervekrblt?style=flat-square&color=f75c7e">
+<a href="https://github.com/deni-13?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/deni-13?style=flat-square&color=f75c7e">
 </a>
   </div>
 
@@ -31,10 +31,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=deni-13&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=deni-13t&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deni-13&layout=compact&theme=radical" />
 </a>
 </div>
 
@@ -53,5 +53,5 @@
         </tr>
 </table>-->
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=deni-13&theme=xcode" /></div>
 <div  align="center"> <img src="https://github.com/deni-13/deni-13/blob/output/github-contribution-grid-snake.svg" /></div>
